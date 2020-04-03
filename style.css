@@ -351,6 +351,11 @@ nav button i {
    animation: textanimation 1.5s ease-in-out forwards;
    animation-delay: 5.5s;
 }
+.maintext btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .maintext a:hover {
    background-color: #de0e11;
